@@ -1,6 +1,6 @@
 # Miembros
 
-* Capitán America22
+
 * Black panther
 * Black Widow
 * Capitán Marvel
