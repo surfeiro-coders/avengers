@@ -1,6 +1,7 @@
 # Miembros
 
-* Capitán America22
+* Nick Fury
+* Capitán America3
 * Black panther
 * Black Widow
 * Capitán Marvel
@@ -8,7 +9,7 @@
 * Hank Pym
 * Hawkeye
 * Hulk
-* Iron Man
+* Iron ManS
 * Luke Cage
 * QuickSilver
 * Scarlet Witch
